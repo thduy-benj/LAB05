@@ -4,6 +4,12 @@
     <Compile Update="Bai5.cs">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Update="Bai5_SendMail.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Bai5_ViewMonAn.cs">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Update="Bai6.cs">
       <SubType>Form</SubType>
     </Compile>

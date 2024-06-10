@@ -42,7 +42,7 @@
             button1.Name = "button1";
             button1.Size = new Size(94, 29);
             button1.TabIndex = 0;
-            button1.Text = "button1";
+            button1.Text = "Bài 1";
             button1.UseVisualStyleBackColor = true;
             // 
             // button2
@@ -51,7 +51,7 @@
             button2.Name = "button2";
             button2.Size = new Size(94, 29);
             button2.TabIndex = 1;
-            button2.Text = "button2";
+            button2.Text = "Bài 2";
             button2.UseVisualStyleBackColor = true;
             // 
             // button3
@@ -60,7 +60,7 @@
             button3.Name = "button3";
             button3.Size = new Size(94, 29);
             button3.TabIndex = 2;
-            button3.Text = "button3";
+            button3.Text = "Bài 3";
             button3.UseVisualStyleBackColor = true;
             // 
             // button4
@@ -69,7 +69,7 @@
             button4.Name = "button4";
             button4.Size = new Size(94, 29);
             button4.TabIndex = 3;
-            button4.Text = "button4";
+            button4.Text = "Bài 4";
             button4.UseVisualStyleBackColor = true;
             // 
             // button5
@@ -104,7 +104,7 @@
             Controls.Add(button2);
             Controls.Add(button1);
             Name = "Form1";
-            Text = "Form1";
+            Text = "Lab 5";
             ResumeLayout(false);
         }
 

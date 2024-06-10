@@ -15,7 +15,7 @@ namespace lab05
 
         private void button5_Click(object sender, EventArgs e)
         {
-            Bai5 bai5 = new Bai5(); 
+            Bai5 bai5 = new Bai5();
             bai5.ShowDialog();
         }
     }

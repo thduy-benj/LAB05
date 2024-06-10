@@ -25,8 +25,8 @@ namespace lab05
             tbSMTP.Text = "smtp.gmail.com";
             tbSmtpPort.Text = "465";
 
-            tbEmail.Text = "email";
-            tbPassword.Text = "password";
+            tbEmail.Text = "21520780@gm.uit.edu.vn";
+            tbPassword.Text = "rgow rmeq xxuk rlpc";
             tbPassword.PasswordChar = '*';
         }
 
