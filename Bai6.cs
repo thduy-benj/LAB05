@@ -75,17 +75,6 @@ namespace lab05
 
         private void btnRefresh_Click(object sender, EventArgs e)
         {
-            ImapClient.Disconnect(true);
-            ImapClient.Connect(tbIMAP.Text, int.Parse(tbImapPort.Text), true);
-            try
-            {
-                ImapClient.Authenticate(tbEmail.Text, tbPassword.Text);
-            }
-            catch (Exception ex)
-            {
-                MessageBox.Show(ex.Message);
-            }
-
             var inbox = ImapClient.Inbox;
             inbox.Open(FolderAccess.ReadOnly);
             lvEmails.Items.Clear();

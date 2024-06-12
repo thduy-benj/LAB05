@@ -4,9 +4,9 @@ using MailKit.Security;
 
 namespace lab05
 {
-    public partial class Form1 : Form
+    public partial class Bai3 : Form
     {
-        public Form1()
+        public Bai3()
         {
             InitializeComponent();
         }
