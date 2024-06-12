@@ -1,4 +1,4 @@
-namespace lab05
+namespace LAB05
 {
     public partial class Form1 : Form
     {
@@ -7,16 +7,16 @@ namespace lab05
             InitializeComponent();
         }
 
-        private void button6_Click(object sender, EventArgs e)
+        private void button1_Click(object sender, EventArgs e)
         {
-            Bai6 bai6 = new Bai6();
-            bai6.ShowDialog();
+            bai1 b1 = new bai1();
+            b1.Show();
         }
 
-        private void button5_Click(object sender, EventArgs e)
+        private void button2_Click(object sender, EventArgs e)
         {
-            Bai5 bai5 = new Bai5();
-            bai5.ShowDialog();
+            bai2 b2 = new bai2();
+            b2.Show();
         }
     }
 }
