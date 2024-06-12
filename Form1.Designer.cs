@@ -44,6 +44,7 @@
             button1.TabIndex = 0;
             button1.Text = "Bài 1";
             button1.UseVisualStyleBackColor = true;
+            button1.Click += button1_Click;
             // 
             // button2
             // 
@@ -53,6 +54,7 @@
             button2.TabIndex = 1;
             button2.Text = "Bài 2";
             button2.UseVisualStyleBackColor = true;
+            button2.Click += button2_Click;
             // 
             // button3
             // 

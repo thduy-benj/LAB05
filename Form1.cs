@@ -18,5 +18,17 @@ namespace lab05
             Bai5 bai5 = new Bai5();
             bai5.ShowDialog();
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            Bai1 bai1 = new Bai1();
+            bai1.ShowDialog();
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            Bai2 bai2 = new Bai2();
+            bai2.ShowDialog();
+        }
     }
 }

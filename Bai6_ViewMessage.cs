@@ -2,8 +2,8 @@
 {
     public partial class Bai6_ViewMessage : Form
     {
-        string from, to, acc, pass;
-        public Bai6_ViewMessage(string html, string from, string to, string sub, string acc, string pass)
+        string from, to, email, pass;
+        public Bai6_ViewMessage(string html, string from, string to, string sub, string email, string pass)
         {
             InitializeComponent();
             tbFrom.Text = from;
@@ -12,7 +12,7 @@
             this.from = to; 
             this.to = from;
             this.pass = pass; 
-            this.acc = acc;
+            this.email = email;
             InitBrowser(html);
         }
 

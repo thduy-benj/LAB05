@@ -67,3 +67,5 @@ D:\Benjamin_stuff\Programing_Laguages\C#\LAB05\obj\Debug\net6.0-windows\lab05.pd
 D:\Benjamin_stuff\Programing_Laguages\C#\LAB05\obj\Debug\net6.0-windows\lab05.genruntimeconfig.cache
 D:\Benjamin_stuff\Programing_Laguages\C#\LAB05\obj\Debug\net6.0-windows\ref\lab05.dll
 D:\Benjamin_stuff\Programing_Laguages\C#\LAB05\obj\Debug\net6.0-windows\lab05.Bai5_ViewMonAn.resources
+D:\Benjamin_stuff\Programing_Laguages\C#\LAB05\obj\Debug\net6.0-windows\lab05.Bai1.resources
+D:\Benjamin_stuff\Programing_Laguages\C#\LAB05\obj\Debug\net6.0-windows\lab05.Bai2.resources
